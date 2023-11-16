@@ -1,0 +1,4 @@
+﻿  UnitTest_8.1_char.cpp
+C:\Users\Roman\source\repos\Lab_08.1_char\Lab_08.1_char.cpp(42,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     Creating library C:\Users\Roman\source\repos\Lab_08.1_char\x64\Debug\UnitTest_8.1_char.lib and object C:\Users\Roman\source\repos\Lab_08.1_char\x64\Debug\UnitTest_8.1_char.exp
+  UnitTest_8.1_char.vcxproj -> C:\Users\Roman\source\repos\Lab_08.1_char\x64\Debug\UnitTest_8.1_char.dll
